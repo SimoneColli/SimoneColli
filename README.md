@@ -8,6 +8,7 @@
 
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=SimoneColli&theme=transparent&hide_border=true&locale=en)](https://git.io/streak-stats)
 
 <!---
 SimoneColli/SimoneColli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
