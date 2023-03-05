@@ -1,8 +1,9 @@
 ## Hi, I’m Simone Colli 👨🏻‍💻👋
 
+
 - 🧑🏻‍🎓 I'm a student
 - 🧑🏻‍💻 I'm a programmer
-- 💻 I know c++, java, html, css, js, python, php, sql
+- 💻 I know c++, java, html, css, js, python, php, postgresql
 - 📷 I'm good in photo editing
 - 📧 You can contact me on this email: s.colli.dev@gmail.com
 
