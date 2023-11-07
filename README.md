@@ -18,8 +18,9 @@ My masterpiece
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simone-colli-085683223/)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SimoneColli)
 
-<!--## 💰 You can help me by Donating-->
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/scollidevp) 
+<a href="https://paypal.me/SimoColli?country.x=IT&locale.x=it_IT" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/%40simonecolli-3558C1?style=flat&logo=paypal&link=https://paypal.me/SimoColli?country.x=IT&locale.x=it_IT">
+</a>
 
 <!---
 SimoneColli/SimoneColli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
