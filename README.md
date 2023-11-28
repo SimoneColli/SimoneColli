@@ -1,23 +1,20 @@
-## Hi, I’m Simone Colli 👨🏻‍💻👋
-- 🧑🏻‍🎓 I'm a student
+## About me
+- 👋 I'm Simone
+- 🧑🏻‍🎓 I'm a student at Unipr
 - 🧑🏻‍💻 I'm a programmer
+- 💻 [Best project](https://simonecolli.github.io/MazeProject)
+- I'm collaborating on [universita](https://github.com/merendamattia/universita)
 
-
-
-My masterpiece
-
-🔗https://simonecolli.github.io/MazeProject/
-
-## 📊 GitHub Stats:
+## Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=SimoneColli&theme=transparent&hide_border=false&locale=en)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneColli&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--## 🌐 Socials:-->
+## Social
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Colli.Simone)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/colli_02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simone-colli-085683223/)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SimoneColli)
 
+## Donations
 <a href="https://paypal.me/SimoColli?country.x=IT&locale.x=it_IT" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/%40simonecolli-3558C1?style=flat&logo=paypal&link=https://paypal.me/SimoColli?country.x=IT&locale.x=it_IT">
 </a>
