@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/colli_02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simone-colli-085683223/)
 
-## Donations
+### Donations
 <a href="https://paypal.me/SimoColli?country.x=IT&locale.x=it_IT" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/%40simonecolli-3558C1?style=flat&logo=paypal&link=https://paypal.me/SimoColli?country.x=IT&locale.x=it_IT">
 </a>
