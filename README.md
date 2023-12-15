@@ -1,6 +1,6 @@
 ## About me
 - 👋 I'm Simone
-- 🧑🏻‍🎓 I'm a student at Unipr
+- 🧑🏻‍🎓 I'm a student at [Unipr](https://corsi.unipr.it/cdl-info) 
 - 🧑🏻‍💻 I'm a programmer
 - 💻 [Best project](https://simonecolli.github.io/MazeProject)
 - I'm collaborating on [universita](https://github.com/merendamattia/universita)
