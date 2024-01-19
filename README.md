@@ -1,9 +1,8 @@
 ## About me
 - 👋 I'm Simone
-- 🧑🏻‍🎓 I'm a student at [Unipr](https://corsi.unipr.it/cdl-info) 
-- 🧑🏻‍💻 I'm a programmer
-- 💻 [Best project](https://simonecolli.github.io/MazeProject)
-- I'm collaborating on [universita](https://github.com/merendamattia/universita)
+- 🧑🏻‍🎓 I'm a computer science student at [Unipr](https://corsi.unipr.it/cdl-info) 
+- :computer: I'm founder and maintainer of [unipr-or](https://github.com/unipr-org)
+- :mag: [Best project](https://simonecolli.github.io/MazeProject)
 
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=SimoneColli&theme=transparent&hide_border=false&locale=en)](https://git.io/streak-stats)
