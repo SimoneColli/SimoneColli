@@ -4,7 +4,7 @@
 - :computer: I'm founder and maintainer of [unipr-or](https://github.com/unipr-org)
 - :mag: [Best project](https://simonecolli.github.io/MazeProject)
 
-## Stats
+## My stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=SimoneColli&theme=transparent&hide_border=false&locale=en)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneColli&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
