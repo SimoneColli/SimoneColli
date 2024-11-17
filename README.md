@@ -4,8 +4,9 @@
 <p align="left">
 - 👋 I'm Simone<br>
 - 🧑🏻‍🎓 I'm a computer science student at <a href="https://corsi.unipr.it/cdl-info">Unipr</a><br>
-- :computer: I'm founder and maintainer of <a href="https://github.com/unipr-org">unipr-org</a><br>
-- :mag: <a href="https://github.com/SimoneColli/PanDelos-plus">Best project</a>
+- 💻 I'm founder and maintainer of <a href="https://github.com/unipr-org">unipr-org</a><br>
+- 🔍 <a href="https://github.com/SimoneColli/MazeProject">Best project</a><br>
+- 🧬 <a href="https://github.com/SimoneColli/PanDelos-plus">Best Tool</a>
 </p>
 
 <br>
@@ -118,7 +119,7 @@
 <p align="center">
  <a href=#><img src="snake.svg"></a>
 </p>
-###
+
 <!---
 SimoneColli/SimoneColli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
