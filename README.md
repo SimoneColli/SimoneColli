@@ -1,19 +1,17 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
 <br>
 <p align="left">
 - 👋 I'm Simone<br>
-- 🧑🏻‍🎓 I'm a computer science student at [Unipr](https://corsi.unipr.it/cdl-info) <br>
-- :computer: I'm founder and maintainer of [unipr-org](https://github.com/unipr-org)<br>
-- :mag: [Best project](https://github.com/SimoneColli/PanDelos-plus)
+- 🧑🏻‍🎓 I'm a computer science student at <a href="https://corsi.unipr.it/cdl-info">Unipr</a><br>
+- :computer: I'm founder and maintainer of <a href="https://github.com/unipr-org">unipr-org</a><br>
+- :mag: <a href="https://github.com/SimoneColli/PanDelos-plus">Best project</a>
 </p>
 
-###
-<br><br>
+<br>
+
 <h3 align="left">🛠 Language and tools</h3>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -89,19 +87,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-###
-<br><br>
+<br>
 <h3 align="left">🔥   My Stats</h3>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SimoneColli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=SimoneColli&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-<br><br>
+<br>
 <h3 align="left">Social</h3>
 
 <div align="left">
@@ -119,10 +114,10 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/SimoneColli/SimoneColli/output/snake.svg" alt="Snake animation" />
-
+<p align="center">
+ <a href=#><img src="snake.svg"></a>
+</p>
 ###
 <!---
 SimoneColli/SimoneColli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
